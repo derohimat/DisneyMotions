@@ -18,13 +18,6 @@ The motion system is included in the 1.2.0-alpha05 released material version.
 ## Download
 Go to the [Releases](https://github.com/skydoves/DisneyMotions/releases) to download the latest APK.
 
-## Screenshots
-<p align="center">
-<img src="/preview/preview0.gif" width="32%"/>
-<img src="/preview/preview1.gif" width="32%"/>
-<img src="/preview/preview2.gif" width="32%"/>
-</p>
-
 ## Tech stack & Open-source libraries
 - Minimum SDK level 21
 - 100% [Kotlin](https://kotlinlang.org/) based + [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) + [Flow](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/) for asynchronous.
